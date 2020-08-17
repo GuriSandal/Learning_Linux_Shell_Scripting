@@ -1,0 +1,4 @@
+#!/usr/bin/env bashNAME=Gurjant
+FAVORITE_COLOR=Blue
+
+echo Hi $FIRST_NAME, your favorie color is $FAVORITE_COLOR.
